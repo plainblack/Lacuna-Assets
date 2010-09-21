@@ -1,0 +1,38 @@
+Lacuna Expanse Corp hereby grants a limited use license of the Artwork contained in the git repository
+located at https://github.com/plainblack/Lacuna-Assets
+
+
+TERMS
+
+The Developer (that's you, the person, persons, or organization) agrees to the following terms:
+
+1) The Artwork shall only be used to create clients, utilities, and web sites for the benefit of The 
+Lacuna Expanse, Lacuna Expanse Corp, and The Lacuna Expanse Community.
+
+2) The Artwork may not be altered in any way, except to resize it or change it's file format to fit
+the specifications of the new user interface.
+
+3) The Artwork may not be used to parody or defame The Lacuna Expanse, Lacuna Expanse Corp, or the
+Lacuna Expanse Community.
+
+4) The Developer may redistribute the Artwork with the client, utility, or web site you create, and only 
+for that purpose.
+
+5) The Artwork may not be sold except if bundled with a client, utility, or web site that follows
+the terms set herein.
+
+6) The rights granted in this license may not be granted or transferred to anyone else.
+
+7) The terms of this license may change with each release. It is the Developer's responsibility
+to read the provisions of this file each time they download the contents of the git repository.
+
+
+COPYRIGHTS AND TRADEMARKS
+
+The Lacuna Expanse and Lacuna Expanse Corp are trade marks of Lacuna Expanse Corp. The artwork described 
+herein is wholly owned by and Copyright 2010 Lacuna Expanse Corp.
+
+
+MORE INFORMATION
+
+For more information about the Lacuna Expanse Developer Program visit http://www.lacunaexpanse.com/developers
